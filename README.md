@@ -3,7 +3,10 @@
 Projeto simples construído em Java com o framework Spring Boot. A API possui endpoints de CRUD para criar, ler, atualizar e excluir produtos em um banco de dados.
 
 # Funcionalidades
-- Listar Produtos: A API permite listar todos os produtos existentes no banco de dados.
+- Listar produtos;
+- Adicionar produtos;
+- Atualizar informações de produtos;
+- Deletar produtos.
 
 # Endpoints
 - GET /products (getAll)
